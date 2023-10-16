@@ -1,4 +1,4 @@
-package S1_javaLanguage.S1_01.Exercici_1;
+package S1_javaLanguage.S1_01.Level_1.Exercici_1;
 
 public class StringInstrument extends Instruments{
     StringInstrument(String name, double price) {
