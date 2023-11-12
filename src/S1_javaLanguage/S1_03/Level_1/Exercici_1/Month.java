@@ -1,4 +1,4 @@
-package S1_javaLanguage.S1_03.Exercici_1;
+package S1_javaLanguage.S1_03.Level_1.Exercici_1;
 
 public class Month {
 
